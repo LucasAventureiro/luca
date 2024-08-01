@@ -1,6 +1,8 @@
 # lucas
-**Boas vindas ao meu perfil**
+**BOAS VINDAS DO MEU PERFIL**
+
 Meu nome é lucas de souza 
+
 
 Estou estudando na Alura
 
